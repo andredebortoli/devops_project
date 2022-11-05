@@ -1,4 +1,4 @@
 # devops_project
-Projeto dew DevOps 
+Projeto de DevOps 
 
 Início do Projeto de DevOps.
